@@ -1,5 +1,7 @@
 # Charybdis Mini (3x6) `via` keymap
 
+Compile with `qmk compile -c -kb bastardkb/charybdis/3x6 -km via`
+
 The Charydbis Mini (3x6) `via` keymap is inspired from the original [Dactyl Manuform](../../../../../handwired/dactyl_manuform) default keymap, with some features and changes specific to the Charybdis.
 
 This layout supports RGB matrix. However, due to space constraints on the MCU, only a limited number of effect can be enabled at once. Look at the `config.h` file and enable your favorite effect.
